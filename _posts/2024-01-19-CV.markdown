@@ -3,7 +3,7 @@ layout: post
 title: "Curriculum Vitae"
 date: 2024-01-19 20:35:00 -0000
 categories: CV
-permalink: /about/cv/
+permalink: /cv
 ---
 
 This is my very first post.
