@@ -220,6 +220,12 @@ GEM
       jekyll-feed (~> 0.9)
       jekyll-seo-tag (~> 2.1)
     minitest (5.21.2)
+    monophase (0.1.0)
+      jekyll (~> 3.9)
+      jekyll-feed (~> 0.15)
+      jekyll-paginate (~> 1.1)
+      jekyll-seo-tag (~> 2.6)
+      kramdown-parser-gfm (~> 1.1)
     mutex_m (0.2.0)
     net-http (0.4.1)
       uri
@@ -284,7 +290,8 @@ DEPENDENCIES
   github-pages (~> 228)
   http_parser.rb (~> 0.6.0)
   jekyll-feed (~> 0.12)
-  minima (~> 2.5)
+  jekyll-remote-theme
+  monophase
   tzinfo (>= 1, < 3)
   tzinfo-data
   wdm (~> 0.1.1)
