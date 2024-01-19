@@ -6,5 +6,49 @@ categories: CV
 permalink: /cv/
 ---
 
-This is my very first post.
-<object data="{{ site.url }}/_pdfs/cv.pdf" width="1000" height="1000" type="application/pdf"></object>
+<style>
+    .parent {
+        display: flex;
+        justify-content: center;
+    }
+    .block {
+        width: 200px;
+    }
+    h1, h2, h3, h4 {
+        text-align: center;
+    }
+    ul {
+        text-align: center;
+        list-style-type: none
+    }
+    li {
+        text-align: center;
+    }
+</style>
+
+# Experience
+
+- 2023 - 2024: **Tutoring**, Institute of Computer Science, University of Augsburg:
+- 2021 - 2023: **Research Assistant**, Institute of Software and Systems Engineering, University of Augsburg
+- 2019 - 2020: **Research Assistant**, Institute of Software and Systems Engineering, University of Augsburg<br>**Working Student**, seele GmbH, Gersthofen
+- 2017-2018: **Tutoring**, Institute of OCmputer Science, University of Augsburg
+
+# Internships
+
+- 2019: **Research Internship**, Institute of Computer Science, University of Augsburg
+
+# Education
+
+- 2020 - 2024: **M.Sc. Computer Science, University of Augsburg**
+- 2015 - 2020: **B.Sc. Computer Science, University of Augsburg**
+- 2014: **Abitur, Gymnasium Königsbrunn**
+
+# Publications
+
+1. O. Kosak, F. Bohn, L. Eing, *et al.*, "Swarm and collective capabilities for multipotent robot ensembles", in *Leveraging Applications of Formal Methods, Verification and Validation: Engineering Principles: 9th International Symposium of Leveraging Applications of Formal Methods, ISoLA 2020, Rhodes, Greece, October 20-30, 2020, Proceedings, Part II 9, Springer, 2020, pp. 525-540.*
+
+# Skills
+
+- **Languages:** German is my mother tongue, fluent in English
+- **Programming Languages:** Good knowledge of Python and Java, some knowledge of C, C#, Elixir, and LateX
+- **Additional:** Advanced knowledge in modern Deep Learning methodology, Experience in Research Planning, Experience in Science Communication
