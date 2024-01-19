@@ -23,7 +23,6 @@ email: lennart.eing@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   On this site you will find projects I am (maybe) currently working on.
   You will also find my CV and other miscellaneous stuff.
-baseurl: "/lennarteing.github.io/" # the subpath of your site, e.g. /blog
 url: "https://lennarteing.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  lennarteing
 
