@@ -7,35 +7,32 @@ permalink: /cv/
 ---
 
 <style>
-    .parent {
-        display: flex;
-        justify-content: center;
-    }
-    .block {
-        width: 200px;
-    }
-    h1, h2, h3, h4 {
-        text-align: center;
-    }
     ul {
-        text-align: center;
-        list-style-type: none
+        list-style-type: none;
+        vertical-align: middle;
+        display: table-cell;
     }
-    li {
-        text-align: center;
+    ul li {
+        margin-bottom: 10px;
     }
 </style>
 
 # Experience
 
-- 2023 - 2024: **Tutoring**, Institute of Computer Science, University of Augsburg:
-- 2021 - 2023: **Research Assistant**, Institute of Software and Systems Engineering, University of Augsburg
-- 2019 - 2020: **Research Assistant**, Institute of Software and Systems Engineering, University of Augsburg<br>**Working Student**, seele GmbH, Gersthofen
-- 2017-2018: **Tutoring**, Institute of OCmputer Science, University of Augsburg
+- 2023 - 2024: 
+    * **Tutoring**, Institute of Computer Science, University of Augsburg.<br>*Supervision of the practice sessions for the lecture "Advanced Deep Learning".<br>Teaching of advanced topics form the field of deep learning-based computer vision methods.*
+- 2021 - 2023:
+    * **Research Assistant**, Institute of Software and Systems Engineering, University of Augsburg.<br>*Using deep learning-based methods for the optimization of resin transfer molding processes.*
+- 2019 - 2020: 
+    * **Research Assistant**, Institute of Software and Systems Engineering, University of Augsburg.<br>*Controlling swarms of drones via self-organizing behaviour.*<br>
+    * **Working Student** seele GmbH, Gersthofen.<br>*Software development in the field of business process modeling.*
+- 2017 - 2018: 
+    * **Tutoring**, Institute of Computer Science, University of Augsburg.<br>*Teaching of theoretical and practical basics.*
 
 # Internships
 
-- 2019: **Research Internship**, Institute of Computer Science, University of Augsburg
+- 2019: 
+    * **Research Internship**, Institute of Computer Science, University of Augsburg.<br>*Parallelization of Particle Swarm Optimization, a non-gradient based optimization algorithm.*
 
 # Education
 
