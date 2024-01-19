@@ -4,4 +4,8 @@ title: Contact
 permalink: /contact/
 ---
 
-This is my contacts.
+Feel free to contact me at: 
+<p align=center>
+    Email: lennart.eing@gmail.com
+    GitHub: github.com/lennarteing
+</p>

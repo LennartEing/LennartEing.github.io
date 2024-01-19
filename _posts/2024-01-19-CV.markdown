@@ -7,3 +7,4 @@ permalink: /cv/
 ---
 
 This is my very first post.
+<object data="{{ site.url }}{{ site.baseurl }}/_pdfs/cv.pdf" width="1000" height="1000" type="application/pdf">This is where the pdf is supposed to be</object>
