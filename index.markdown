@@ -5,4 +5,4 @@
 layout: home
 ---
 
-<object data="{{ site.url }}{{ site.baseurl }}/_pdfs/cv.pdf" width="1000" height="1000" type="application/pdf"></object>
+<object data="{{ site.url }}{{ site.baseurl }}/_pdfs/cv.pdf" width="1000" height="1000" type="application/pdf">This is where the pdf is supposed to be</object>
