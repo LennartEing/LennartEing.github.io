@@ -17,7 +17,7 @@ permalink: /cv/
     }
 </style>
 
-For a pdf version of my CV just download it [here]({{ site.url }}/download/cv.pdf).
+For a pdf version of my CV just download it <a href="{{ site.url }}/download/cv.pdf" target="_blank">here</a>.
 
 # Experience
 
