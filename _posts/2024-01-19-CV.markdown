@@ -48,6 +48,13 @@ For a pdf version of my CV click <a href="{{ site.url }}/download/cv.pdf" target
 
 # Skills
 
-- **Languages:** German is my mother tongue, fluent in English
-- **Programming Languages:** Good knowledge of Python and Java, some knowledge of C, C#, Elixir, and LateX
-- **Additional:** Advanced knowledge in modern Deep Learning methodology, Experience in Research Planning, Experience in Science Communication
+- **Languages:**:
+    * German is my mother tongue
+    * Fluent in English
+- **Programming Languages:**:
+    * Good knowledge of Python and Java
+    * Some knowledge of C, C#, Elixir, and LaTeX
+- **Additional:**:
+    * Advanced knowledge in modern Deep Learning methodology
+    * Experience in Research Planning 
+    * Experience in Science Communication
