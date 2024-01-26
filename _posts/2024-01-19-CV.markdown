@@ -38,8 +38,8 @@ For a pdf version of my CV click <a href="{{ site.url }}/download/cv.pdf" target
 
 # Education
 
-- 2020 - 2024: **M.Sc. Computer Science, University of Augsburg**
-- 2015 - 2020: **B.Sc. Computer Science, University of Augsburg**
+- 2020 - 2024: **M.Sc. Computer Science, University of Augsburg**, Note: 1,50
+- 2015 - 2020: **B.Sc. Computer Science, University of Augsburg**, Note: 2,13
 - 2014: **Abitur, Gymnasium Königsbrunn**
 
 # Publications
