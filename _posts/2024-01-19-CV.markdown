@@ -21,6 +21,8 @@ For a pdf version of my CV click <a href="{{ site.url }}/download/cv.pdf" target
 
 # Experience
 
+- 2024 - Now:
+    * **Research Assistant**, Institute of Computer Science, University of Augsburg, Chair for Human Centered Artificial Intelligence.<br>*Currently pursuing a PhD with a focus on multimodal neural networks.<br> Additionally, researching german sign language (DGS) translation as part of the BIGEKO project.*
 - 2023 - 2024: 
     * **Tutoring**, Institute of Computer Science, University of Augsburg.<br>*Supervision of the practice sessions for the lecture "Advanced Deep Learning".<br>Teaching of advanced topics form the field of deep learning-based computer vision methods.*
 - 2021 - 2023:
