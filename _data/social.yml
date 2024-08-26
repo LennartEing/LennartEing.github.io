@@ -1,6 +1,9 @@
 - title: Email
   url: mailto:lennart.eing@gmail.com
   icon: fas fa-envelope
-- title: GitHub
+- title: Private GitHub
   url: https://github.com/lennarteing
+  icon: fab fa-github
+- title: University GitHub
+  url: https://github.com/lennarteinguni
   icon: fab fa-github
