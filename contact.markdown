@@ -17,4 +17,5 @@ permalink: /contact/
 
 Feel free to contact me at: 
 - Email: [lennart.eing@gmail.com](mailto:lennart.eing@gmail.com); [lennart.eing@uni-a.de](mailto:lennart.eing@uni-a.de);
-- GitHub: <a href="https://github.com/lennarteing" target="_blank">github.com/lennarteing</a>
+- Private GitHub: <a href="https://github.com/lennarteing" target="_blank">github.com/lennarteing</a>
+- University GitHub: <a href="https://github.com/lennarteingunia" target="_blank">github.com/lennarteingunia</a>

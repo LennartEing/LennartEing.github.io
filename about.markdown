@@ -17,7 +17,7 @@ permalink: /about/
 
 Hey there!
 
-My name is Lenny. I am currently a Computer Science student and Machine Learning Engineer from the greater Munich area. 
+My name is Lenny.
 I am a PhD student at the Chair for Human Centered Artificial Intelligence at the University of Augsburg. 
 On this site I want to keep people updated about current projects I am working on.
 You will also find my CV and contact details here.
